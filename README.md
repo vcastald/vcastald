@@ -7,7 +7,6 @@
 
 **Common Core** - 42 Florence
 
-
 **Interests**: Cryptography, Open-Source projects, Digital Currencies 
 
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
@@ -15,7 +14,7 @@
 ---
 ### Organizations
 
-**[@BitPolito](https://github.com/BitPolito)** cryptography team — applied cryptography & Bitcoin privacy infrastructure
+**[@BitPolito](https://github.com/BitPolito)** cryptography team — open-source projects about the Bitcoin world
 
 ---
 ### Education
