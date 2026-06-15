@@ -2,7 +2,6 @@
 
 ![Citazione](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
----
 **BSc Information Science for Management** - Unibo - Bologna University
 
 **Common Core** - 42 Florence
