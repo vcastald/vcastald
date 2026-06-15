@@ -1,8 +1,8 @@
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Valentino+Castaldini;Cryptography+%26+Bitcoin+dev" alt="Typing SVG" />
-</p>
 
+![Citazione](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+---
 **BSc Information Science for Management** - Unibo - Bologna University
 
 **Common Core** - 42 Florence
