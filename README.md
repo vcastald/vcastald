@@ -27,7 +27,7 @@
 - [`Mario-kart-wii-Threejs`](https://github.com/72Gregorio72/mkwii-THREEJS) — full-stack, real-time 3D multiplayer racing web application inspired by the classic Mario Kart series. (42)
 - [`Minishell-Pokemon`](https://github.com/72Gregorio72/miniShellPokemon) —  custom shell built in C, extended with a Pokémon-flavored layer. (42)
 - [`Ft_IRC`](https://github.com/72Gregorio72/IRC) — an IRC server with a bot to play Balatro. (42)
-- [`cub3D`](https://github.com/72Gregorio72/IRC) — 3D representation of a maze using raycasting in C. (42)
+- [`cub3D`](https://github.com/72Gregorio72/Cub3d) — 3D representation of a maze using raycasting in C. (42)
 
 ---
 ### Languages and tools
